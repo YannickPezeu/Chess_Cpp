@@ -244,9 +244,6 @@ void Pieces::mouseReleaseEvent(QGraphicsSceneMouseEvent * event)
 }
 
 
-
-
-
 Bishop::Bishop(int color)
 {
     //m_size = 0.1*size_of_board;
