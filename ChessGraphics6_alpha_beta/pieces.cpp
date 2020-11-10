@@ -241,10 +241,6 @@ void Pieces::mouseReleaseEvent(QGraphicsSceneMouseEvent * event)
             m_board->print_board(m_board->m_position);
         }
 
-
-
-
-
 }
 
 
